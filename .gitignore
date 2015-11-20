@@ -44,3 +44,4 @@ Thumbs.db
 *.ipynb_checkpoints
 hw1/config.cfg
 hw1/venv/*
+*.pyc
